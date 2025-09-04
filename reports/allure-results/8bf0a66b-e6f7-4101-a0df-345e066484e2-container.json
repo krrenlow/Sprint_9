@@ -1,0 +1,1 @@
+{"uuid": "fe9f6af7-88c1-4ab1-afb7-135c8535a8df", "children": ["e89bbbec-a14d-4adf-b22d-39ffab82ddf7"], "befores": [{"name": "Получаем файл из папки asserts", "status": "passed", "start": 1757024520094, "stop": 1757024520094}], "start": 1757024520094, "stop": 1757024520127}
