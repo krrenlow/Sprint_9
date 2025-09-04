@@ -10,6 +10,6 @@ jobs:
       - name: Check out repository code
         uses: actions/checkout@v3
       - name: Pull selenoid image
-        run: docker pull selenoid/chrome:128.0
+        run: docker pull selenoid/chrome:120.0
       - name: Run tests in docker
         run: docker compose up --build --exit-code-from test_docker
